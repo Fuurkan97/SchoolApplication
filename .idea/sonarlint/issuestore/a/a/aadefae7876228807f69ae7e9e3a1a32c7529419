@@ -1,0 +1,42 @@
+
+e
+java:S6208-"CMerge the previous cases into this one using comma-separated label.(äà³µùÿÿÿÿ8äù®°1
+e
+java:S62081"CMerge the previous cases into this one using comma-separated label.(ÄƒŠóüÿÿÿÿ8äù®°1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(•æçò8ìù®°1
+L	java:S106"+Replace this use of System.out by a logger.(ÄˆÙıÿÿÿÿ8ïù®°1
+T
+java:S6126"2Replace this String concatenation with Text block.(ÄˆÙıÿÿÿÿ8ïù®°1
+j	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÔ³Ä8ğù®°1
+V
+java:S1854D"9Remove this useless assignment to local variable "sonuc".(ëíÏÑ8ğù®°1
+G	java:S106<"+Replace this use of System.out by a logger.(ıÍÆ‚8ğù®°1
+G
+java:S1481D"*Remove this unused "sonuc" local variable.(ëíÏÑ8ñù®°1
+L	java:S106F"+Replace this use of System.out by a logger.(ÿª¦ûÿÿÿÿ8ñù®°1
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì·Üµ8ñù®°1
+L	java:S106L"+Replace this use of System.out by a logger.(ñËÇ—ûÿÿÿÿ8ñù®°1
+L	java:S106N"+Replace this use of System.out by a logger.(Ÿ˜•ñúÿÿÿÿ8ñù®°1
+G	java:S106P"+Replace this use of System.out by a logger.(ÀÓ«8òù®°1
+L	java:S106R"+Replace this use of System.out by a logger.(”‰æ‚ÿÿÿÿÿ8òù®°1
+L	java:S106T"+Replace this use of System.out by a logger.(©øüÿÿÿÿ8òù®°1
+L	java:S106V"+Replace this use of System.out by a logger.(ÛàÔëÿÿÿÿÿ8òù®°1
+o	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áâ¹üúÿÿÿÿ8òù®°1
+L	java:S106_"+Replace this use of System.out by a logger.(×©¦ğşÿÿÿÿ8òù®°1
+L	java:S106e"+Replace this use of System.out by a logger.(êªÅ„øÿÿÿÿ8óù®°1
+T
+java:S6126e"2Replace this String concatenation with Text block.(êªÅ„øÿÿÿÿ8óù®°1
+G
+java:S1197n"*Move the array designators [] to the type.(›¸µ«8óù®°1
+s
+java:S3457q"Q%n should be used in place of \n to produce the platform-specific line separator.(ÈÆşúùÿÿÿÿ8óù®°1
+L	java:S106q"+Replace this use of System.out by a logger.(ÈÆşúùÿÿÿÿ8şˆ™®°1
+L	java:S106{"+Replace this use of System.out by a logger.(êªÅ„øÿÿÿÿ8şˆ™®°1
+T
+java:S6126{"2Replace this String concatenation with Text block.(êªÅ„øÿÿÿÿ8ôù®°1
+H
+java:S1197ƒ"*Move the array designators [] to the type.(›¸µ«8ôù®°1
+t
+java:S3457„"Q%n should be used in place of \n to produce the platform-specific line separator.(ÈÆşúùÿÿÿÿ8õù®°1
+M	java:S106„"+Replace this use of System.out by a logger.(ÈÆşúùÿÿÿÿ8ÿˆ™®°1
